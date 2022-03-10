@@ -1,1 +1,7 @@
+gcc -g p3original.c
+ ./a.out
+enter the values of n and r
+20
+12
+the vlaue of 20.c.12  is 125970
 
