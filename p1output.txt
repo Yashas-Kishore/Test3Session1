@@ -1,1 +1,9 @@
-
+gcc -g p1original.c
+ ./a.out
+enter the fraction one a/b in the form a_b
+4
+5
+enter the fraction two a/b in the form a_b
+2
+10
+the sum of fractions 4/5 and 2/10 is given by 1/1

@@ -1,1 +1,12 @@
-
+gcc -g p2original.c
+ ./a.out
+enter the fraction one a/b in the form a_b
+4
+5
+enter the fraction one a/b in the form a_b
+2
+10
+enter the fraction one a/b in the form a_b
+15
+25
+the largest of the fractions 4/5 , 2/10 , 15/25 is 15/25 
