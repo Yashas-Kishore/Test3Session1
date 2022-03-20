@@ -24,7 +24,7 @@ void output(char *string, int no_words)
  //  while(string != NULL)
  // {
  //   printf("%s ",string);
- //   string=strtok(NULL," ,.-!?");
+ //   test=strtok(NULL," ,.-!?");
  // }
  printf("the number of words in the sentence\n");
  printf("is %d\n",no_words);
